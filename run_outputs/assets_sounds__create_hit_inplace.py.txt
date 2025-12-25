@@ -1,0 +1,8 @@
+FILE: assets\sounds\_create_hit_inplace.py
+RETURN_CODE: 0
+
+STDOUT:
+created hit.wav
+
+
+STDERR:

@@ -1,0 +1,11 @@
+FILE: player.py
+RETURN_CODE: 1
+
+STDOUT:
+
+
+STDERR:
+Traceback (most recent call last):
+  File "C:\Users\Kavin D\OneDrive\Desktop\PROJECT\U0001f3c5\u2708\AI_ENEMY_GAME\player.py", line 1, in <module>
+    import pygame
+ModuleNotFoundError: No module named 'pygame'
