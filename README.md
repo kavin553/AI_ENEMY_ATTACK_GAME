@@ -76,7 +76,6 @@ During gameplay, the player sees a real-time HUD showing:
 </p>
 
 <hr>
-
 <h2>🧍 Player Character</h2>
 
 <p>
