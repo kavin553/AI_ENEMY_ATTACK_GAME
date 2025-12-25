@@ -1,4 +1,3 @@
-# AI_ENEMY_ATTACK_GAME
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -76,6 +75,7 @@ During gameplay, the player sees a real-time HUD showing:
 </p>
 
 <hr>
+
 <h2>🧍 Player Character</h2>
 
 <p>
