@@ -47,7 +47,7 @@ The game begins with a clean and minimal start menu.
 </p>
 
 <p align="center">
-  <img src="assets/readme/start_screen.png" width="70%" alt="Start Screen">
+  <img src="assets/readme/start_screen.png.png" width="70%" alt="Start Screen">
 </p>
 
 <ul>
@@ -71,7 +71,7 @@ During gameplay, the player sees a real-time HUD showing:
 </ul>
 
 <p align="center">
-  <img src="assets/readme/gameplay_ui.png" width="80%" alt="Gameplay HUD">
+  <img src="assets/readme/gameplay_ui.png.png" width="80%" alt="Gameplay HUD">
 </p>
 
 <hr>
@@ -83,7 +83,7 @@ You control the player using keyboard controls.
 </p>
 
 <p align="center">
-  <img src="assets/readme/player.png" width="200" alt="Player Character">
+  <img src="assets/readme/player.png.jpeg" width="200" alt="Player Character">
 </p>
 
 <ul>
@@ -101,7 +101,7 @@ Enemies are not scripted — they <b>learn using Q-Learning</b>.
 </p>
 
 <p align="center">
-  <img src="assets/readme/enemy.png" width="250" alt="Enemy Character">
+  <img src="assets/readme/enemy.png.jpeg" width="250" alt="Enemy Character">
 </p>
 
 <p>
@@ -128,7 +128,7 @@ The dungeon world is created using a <b>tile-based map system</b>.
 </p>
 
 <p align="center">
-  <img src="assets/readme/game_map.png" width="80%" alt="Game Map">
+  <img src="assets/readme/game_map.png.jpeg" width="80%" alt="Game Map">
 </p>
 
 <ul>
