@@ -37,8 +37,7 @@ Unlike traditional games with fixed enemy behavior, enemies in this game
   <li>🤖 Understanding Reinforcement Learning visually</li>
   <li>📂 Portfolio & GitHub showcase</li>
 </ul>
-
-<hr>
+🔗 **ENJOY😍TO🥰PLAY🎮GAME:**  https://ai-enemy-attack-game-cs15.vercel.app/
 
 <h2>🎬 Game Start Screen</h2>
 
